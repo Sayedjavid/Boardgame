@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 
 this is the file name called f1.txt 
 but i am adding the second line to stash
 now i am adding the 3rd line as well to check 
+=======
